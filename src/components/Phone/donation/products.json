@@ -1,0 +1,47 @@
+{
+	"10k": {
+		"title": "10 000$",
+		"description": "Banka hesabınıza 10 000$ ekler",
+		"icon": "cash"
+	},
+	"50k": {
+		"title": "50 000$",
+		"description": "Banka hesabınıza 50 000$ ekler",
+		"icon": "cash"
+	},
+	"200k": {
+		"title": "200 000$",
+		"description": "Banka hesabınıza 200 000$ ekler",
+		"icon": "cash"
+	},
+	"500k": {
+		"title": "500 000$",
+		"description": "Banka hesabınıza 500 000$ ekler",
+		"icon": "cash"
+	},
+	"2kk": {
+		"title": "Para Çantası",
+		"description": "Banka hesabınıza 2 000 000$ ekler",
+		"icon": "money_case"
+	},
+	"10kk": {
+		"title": "Para Kasası",
+		"description": "Banka hesabınıza 10 000 000$ ekler",
+		"icon": "safe"
+	},
+	"vehicle_slot": {
+		"title": "Araç Slotu",
+		"description": "Daha fazla araç sahibi olmanızı sağlar",
+		"icon": "car"
+	},
+	"backpack": {
+		"title": "Elit Sırt Çantası",
+		"description": "En yüksek kapasiteye sahip sırt çantasını alırsınız",
+		"icon": "backpack"
+	},
+	"military_id": {
+		"title": "Askeri Kimlik",
+		"description": "Askerliği atlamanızı ve belge almanızı sağlar",
+		"icon": "military_id"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"handshake": "Bir yabancıyla tokalaş",
+	"refuel": "Aracı yakıtla doldur",
+	"tuning": "Aracı modifiye et",
+	"repair_veh": "Aracı tamir et (serviste)",
+	"buy_car": "Bir araç satın al",
+	"buy_prop": "Bir mülk satın al",
+	"house_tax": "Ev vergisini öde",
+	"tattoo": "Dövme yaptır/sildir",
+	"give_cash": "Para ver",
+	"barbershop": "Berber dükkanını ziyaret et",
+	"bank_replenish": "Banka hesabını doldur",
+	"buy_weapon": "Herhangi bir silah satın al",
+	"buy_clothes": "Yeni kıyafet satın al",
+	"phone_call": "Telefonla birini ara",
+	"building_money": "İnşaatta para kazan",
+	"theft_veh": "Aracı maymuncukla çal",
+	"postal_delivery": "Postaneye paket teslim et",
+	"waterfront_money": "Liman işinde para kazan"
+}

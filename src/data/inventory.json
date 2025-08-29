@@ -1,0 +1,407 @@
+{
+	"hat": {
+		"type": "clothes",
+		"name": "Şapka",
+		"weight": 0.1
+	},
+	"jacket": {
+		"type": "clothes",
+		"name": "Ceket",
+		"weight": 0.2
+	},
+	"shirt": {
+		"type": "clothes",
+		"name": "Gömlek",
+		"weight": 0.1
+	},
+	"pants": {
+		"type": "clothes",
+		"name": "Pantolon",
+		"weight": 0.2
+	},
+	"shoes": {
+		"type": "clothes",
+		"name": "Ayakkabı",
+		"weight": 0.2
+	},
+	"glasses": {
+		"type": "clothes",
+		"name": "Gözlük",
+		"weight": 0.1
+	},
+	"mask": {
+		"type": "clothes",
+		"name": "Maske",
+		"weight": 0.1
+	},
+	"accessories": {
+		"type": "clothes",
+		"name": "Aksesuar",
+		"weight": 0.1
+	},
+	"watch": {
+		"type": "clothes",
+		"name": "Saat",
+		"weight": 0.1
+	},
+	"burger": {
+		"type": "food",
+		"name": "Burger",
+		"weight": 0.1
+	},
+	"donut": {
+		"type": "food",
+		"name": "Pasta",
+		"weight": 0.1
+	},
+	"chocolate": {
+		"type": "food",
+		"name": "Çikolata",
+		"weight": 0.1
+	},
+	"soda": {
+		"type": "food",
+		"name": "Gazoz",
+		"weight": 0.15
+	},
+	"cigarettes": {
+		"type": "drugs",
+		"name": "Sigara",
+		"weight": 0.01
+	},
+	"beer": {
+		"type": "alcohol",
+		"name": "Bira",
+		"weight": 0.2
+	},
+	"wine": {
+		"type": "alcohol",
+		"name": "Şarap",
+		"weight": 0.3
+	},
+	"whiskey": {
+		"type": "alcohol",
+		"name": "Viski",
+		"weight": 0.3
+	},
+	"vodka": {
+		"type": "alcohol",
+		"name": "Votka",
+		"weight": 0.3
+	},
+	"bandage": {
+		"type": "medicine",
+		"name": "Bandaj",
+		"weight": 0.1
+	},
+	"medkit": {
+		"type": "medicine",
+		"name": "İlk Yardım Çantası",
+		"weight": 1
+	},
+	"flashlight": {
+		"type": "weapon",
+		"name": "El Feneri",
+		"weight": 0.2
+	},
+	"nightstick": {
+		"type": "weapon",
+		"name": "Cop",
+		"weight": 0.5
+	},
+	"stungun": {
+		"type": "weapon",
+		"name": "Şok Tabancası",
+		"weight": 0.3
+	},
+	"dagger": {
+		"type": "weapon",
+		"name": "Hançer",
+		"weight": 0.2
+	},
+	"bat": {
+		"type": "weapon",
+		"name": "Beyzbol Sopası",
+		"weight": 1
+	},
+	"bottle": {
+		"type": "weapon",
+		"name": "Şişe",
+		"weight": 0.1
+	},
+	"golfclub": {
+		"type": "weapon",
+		"name": "Golf Sopası",
+		"weight": 1
+	},
+	"knuckle": {
+		"type": "weapon",
+		"name": "Boksör",
+		"weight": 0.2
+	},
+	"knife": {
+		"type": "weapon",
+		"name": "Bıçak",
+		"weight": 0.2
+	},
+	"pistol": {
+		"type": "weapon",
+		"name": "Tabanca",
+		"weight": 0.5
+	},
+	"pistol50": {
+		"type": "weapon",
+		"name": "Tabanca .50",
+		"weight": 0.6
+	},
+	"snspistol": {
+		"type": "weapon",
+		"name": "Cep Tabancası",
+		"weight": 0.3
+	},
+	"vintagepistol": {
+		"type": "weapon",
+		"name": "Vintage Tabanca",
+		"weight": 0.6
+	},
+	"revolver": {
+		"type": "weapon",
+		"name": "Ağır Revolver",
+		"weight": 0.7
+	},
+	"doubleaction": {
+		"type": "weapon",
+		"name": "Çift Hareketli Revolver",
+		"weight": 0.5
+	},
+	"machinepistol": {
+		"type": "weapon",
+		"name": "Mini Otomatik Tabanca",
+		"weight": 0.9
+	},
+	"microsmg": {
+		"type": "weapon",
+		"name": "Mikro SMG",
+		"weight": 1
+	},
+	"smg": {
+		"type": "weapon",
+		"name": "Tabanca-Makineli Tüfek",
+		"weight": 1.2
+	},
+	"minismg": {
+		"type": "weapon",
+		"name": "Mini SMG",
+		"weight": 1.1
+	},
+	"combatpdw": {
+		"type": "weapon",
+		"name": "Savaş PDW",
+		"weight": 1.2
+	},
+	"assaultsmg": {
+		"type": "weapon",
+		"name": "Saldırı SMG",
+		"weight": 1.4
+	},
+	"assaultrifle": {
+		"type": "weapon",
+		"name": "Saldırı Tüfeği",
+		"weight": 1.5
+	},
+	"carbinerifle": {
+		"type": "weapon",
+		"name": "Otomatik Tüfek",
+		"weight": 1.4
+	},
+	"advancedrifle": {
+		"type": "weapon",
+		"name": "Gelişmiş Tüfek",
+		"weight": 1.6
+	},
+	"specialcarbine": {
+		"type": "weapon",
+		"name": "Özel Karabin",
+		"weight": 1.5
+	},
+	"compactrifle": {
+		"type": "weapon",
+		"name": "Kısa Tüfek",
+		"weight": 1.3
+	},
+	"sawnoffshotgun": {
+		"type": "weapon",
+		"name": "Kısa Namlulu Pompalı",
+		"weight": 1.3
+	},
+	"pumpshotgun": {
+		"type": "weapon",
+		"name": "Pompalı Tüfek",
+		"weight": 1.5
+	},
+	"assaultshotgun": {
+		"type": "weapon",
+		"name": "Saldırı Pompalı",
+		"weight": 1.6
+	},
+	"heavyshotgun": {
+		"type": "weapon",
+		"name": "Ağır Pompalı",
+		"weight": 1.7
+	},
+	"musket": {
+		"type": "weapon",
+		"name": "Misket Tüfek",
+		"weight": 1.8
+	},
+	"dbshotgun": {
+		"type": "weapon",
+		"name": "Çifte",
+		"weight": 1.3
+	},
+	"9mm": {
+		"type": "ammo",
+		"name": "9mm Mermi",
+		"weight": 0.01
+	},
+	"7.62mm": {
+		"type": "ammo",
+		"name": "7.62mm Mermi",
+		"weight": 0.02
+	},
+	"12gauge": {
+		"type": "ammo",
+		"name": "12gauge Mermi",
+		"weight": 0.03
+	},
+	"jerrycan": {
+		"type": "tool",
+		"name": "Benzin Bidonu",
+		"weight": 1.4
+	},
+	"repair_kit": {
+		"type": "tool",
+		"name": "Tamir Kiti",
+		"weight": 2
+	},
+	"armor_light": {
+		"type": "armor",
+		"name": "Hafif Zırh",
+		"weight": 0.2
+	},
+	"armor_medium": {
+		"type": "armor",
+		"name": "Orta Zırh",
+		"weight": 0.3
+	},
+	"armor_heavy": {
+		"type": "armor",
+		"name": "Ağır Zırh",
+		"weight": 0.5
+	},
+	"backpack_small": {
+		"type": "backpack",
+		"name": "Küçük Sırt Çantası",
+		"weight": 0.1
+	},
+	"backpack_medium": {
+		"type": "backpack",
+		"name": "Orta Sırt Çantası",
+		"weight": 0.1
+	},
+	"backpack_large": {
+		"type": "backpack",
+		"name": "Büyük Sırt Çantası",
+		"weight": 0.1
+	},
+	"lockpick": {
+		"type": "tool",
+		"name": "Maymuncuk",
+		"weight": 0.03
+	},
+	"handcuffs": {
+		"type": "tool",
+		"name": "Kelepçe",
+		"weight": 0.1
+	},
+	"cable_tie": {
+		"type": "tool",
+		"name": "Kablo Bağı",
+		"weight": 0.05
+	},
+	"sack": {
+		"type": "tool",
+		"name": "Çuval",
+		"weight": 0.1
+	},
+	"cocaine": {
+		"type": "drugs",
+		"name": "Toz Tuğlası",
+		"weight": 0.4
+	},
+  "rod": {
+    "type": "tool",
+    "name": "Olta",
+    "weight": 0.2
+  },
+  "fish_bait": {
+    "type": "tool",
+    "name": "Balık Yemi",
+    "weight": 0.05
+  },
+  "perch": {
+    "type": "fish",
+    "name": "Levrek",
+    "weight": 0.1
+  },
+  "eel": {
+    "type": "fish",
+    "name": "Yılan Balığı",
+    "weight": 0.1
+  },
+  "pike": {
+    "type": "fish",
+    "name": "Turna Balığı",
+    "weight": 0.1
+  },
+  "trout": {
+    "type": "fish",
+    "name": "Alabalık",
+    "weight": 0.1
+  },
+  "salmon": {
+    "type": "fish",
+    "name": "Somon",
+    "weight": 0.1
+  },
+  "sturgeon": {
+    "type": "fish",
+    "name": "Mersin Balığı",
+    "weight": 0.1
+  },
+  "zander": {
+    "type": "fish",
+    "name": "Sudak",
+    "weight": 0.1
+  },
+  "catfish": {
+    "type": "fish",
+    "name": "Yayın Balığı",
+    "weight": 0.1
+  },
+  "stingray": {
+    "type": "fish",
+    "name": "Vatoz",
+    "weight": 0.1
+  },
+  "tuna": {
+    "type": "fish",
+    "name": "Orkinos",
+    "weight": 0.1
+  },
+  "fugu": {
+    "type": "fish",
+    "name": "Fugu",
+    "weight": 0.1
+  }
+}

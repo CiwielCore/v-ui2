@@ -1,0 +1,14 @@
+{
+	"car": "B Sınıfı Ehliyet",
+	"motorcycle": "A Sınıfı Ehliyet",
+	"truck": "C Sınıfı Ehliyet",
+	"weapon": "Silah Ruhsatı",
+	"house": "Konut Ruhsatı",
+	"business": "İşletme Ruhsatı",
+	"med_physical": "Fiziksel Sağlık Raporu",
+	"med_mental": "Psikolojik Sağlık Raporu",
+	"military": "Askeri Kimlik",
+  "fishing": "Balıkçılık Ruhsatı",
+  "boat": "Tekne Ruhsatı",
+  "air": "Uçak Ruhsatı"
+}
